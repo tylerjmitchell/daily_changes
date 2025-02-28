@@ -10,8 +10,6 @@ Workflow for calculating daily-scale distributions for ASOS weather stations and
 
 **load.R** -- loads required packages and raw data
 
-functions.R -- functions used in the process
-
 
 # Data sources
 
