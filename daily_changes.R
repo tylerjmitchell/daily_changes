@@ -8,7 +8,7 @@ if (file_name == "") {
 }
 
 # load data
-data <- read.csv(file.path("data/", file_name))
+data <- read.csv(file.path("data", file_name))
 
 # convert 'valid' column to datetime format
 data <- data %>%
